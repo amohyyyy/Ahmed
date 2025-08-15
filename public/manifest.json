@@ -1,0 +1,9 @@
+{
+  "name": "Edu Platform Pro",
+  "short_name": "EduPro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [{ "src": "/logo.svg", "sizes": "128x128", "type": "image/svg+xml" }]
+}
